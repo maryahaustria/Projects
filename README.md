@@ -1,5 +1,5 @@
-Maryah Austria
-Hello! I'm Maryah Austria, and I'm currently pursuing a Master's in Applied Information Technology with a concentration in Machine Learning, set to graduate in December 2024. My passion lies in using data to solve everyday problems and enhancing machine performance to make our lives more efficient and effective.
+Hello! 
+I'm Maryah Austria, and I'm currently pursuing a Master's in Applied Information Technology with a concentration in Machine Learning, set to graduate in December 2024. My passion lies in using data to solve everyday problems and enhancing machine performance to make our lives more efficient and effective.
 
 I'm actively seeking an internship where I can apply my expertise in machine learning and natural language processing. My career aspiration is to become a data scientist, specializing in machine learning or artificial intelligence. I find it incredibly exciting to uncover insights from data and drive innovation through technology.
 
